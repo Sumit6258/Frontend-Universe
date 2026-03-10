@@ -838,11 +838,8 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
 <br/>
 
 *Made with ❤️ by [**Sumit**](https://www.linkedin.com/in/thesumitsuman/) — turning coffee and curiosity into clean, scalable frontends.*
-<<<<<<< HEAD
-=======
 
 <br/>
->>>>>>> 892cc0f10feaf4423cbe87201c95508816f8282d
 
 <br/>
 
