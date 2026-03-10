@@ -25,7 +25,11 @@
 <br/>
 
 [![Version](https://img.shields.io/badge/version-2.0.0-00d4ff?style=for-the-badge&labelColor=04040a)](https://github.com/Sumit6258/frontend-universe)
+<<<<<<< HEAD
 [![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Visit_Site-00d4ff?style=for-the-badge)](https://sumit6258.github.io/Frontend-Universe/)
+=======
+[![GitHub Pages](https://img.shields.io/badge/Hosted_on-GitHub_Pages-222?style=for-the-badge&logo=github&logoColor=white)](https://sumit6258.github.io/frontend-universe)
+>>>>>>> 892cc0f10feaf4423cbe87201c95508816f8282d
 [![License](https://img.shields.io/badge/License-MIT-a78bfa?style=for-the-badge)](LICENSE)
 [![Three.js](https://img.shields.io/badge/Three.js-WebGL-ff5c6c?style=for-the-badge&logo=threedotjs&logoColor=white)](#)
 [![AI Powered](https://img.shields.io/badge/AI-Assistant-ffc947?style=for-the-badge)](#)
@@ -41,7 +45,11 @@
 
 <br/>
 
+<<<<<<< HEAD
 [**🚀 Live Demo**](https://sumit6258.github.io/Frontend-Universe/) · [**📚 Documentation**](#-table-of-contents) · [**🐛 Report Bug**](https://github.com/Sumit6258/frontend-universe/issues) · [**✨ Request Feature**](https://github.com/Sumit6258/frontend-universe/issues)
+=======
+[**🚀 Live Demo**](https://sumit6258.github.io/frontend-universe) · [**📚 Documentation**](#-table-of-contents) · [**🐛 Report Bug**](https://github.com/Sumit6258/frontend-universe/issues) · [**✨ Request Feature**](https://github.com/Sumit6258/frontend-universe/issues)
+>>>>>>> 892cc0f10feaf4423cbe87201c95508816f8282d
 
 <br/>
 
@@ -353,15 +361,72 @@ frontend-universe/
 - **`app.js`** — All rendering functions and event handlers as pure ES6+. No virtual DOM, no framework, just fast `innerHTML`.
 - **`universe.js`** — Self-contained visual engine. Three.js galaxy, custom cursor, magnetic buttons, parallax, architecture map. Fully removable without breaking the rest of the site.
 - **`ai-panel.js`** — Fully encapsulated AI module. Works with or without an API key. Key stored only in `localStorage`.
+<<<<<<< HEAD
 - **`gamify.js`** — Hooks into existing app functions at runtime. Zero coupling — remove this file and everything else still works perfectly.
+- **`styles.css`** — CSS custom properties design system. Swap `:root` variables to completely re-theme the entire site.
+- **`sw.js`** — Caches all 8 files on first load. Full offline support with cache-first strategy.
+=======
+- **`gamify.js`** — Hooks into existing app functions at runtime via function wrapping. Zero coupling — remove this file and everything else still works.
 - **`styles.css`** — CSS custom properties design system. Swap `:root` variables to completely re-theme the entire site.
 - **`sw.js`** — Caches all 8 files on first load. Full offline support with cache-first strategy.
 
 ---
 
+## 🚀 Getting Started
+
+### Option 1 — Just open it (zero setup)
+
+```bash
+git clone https://github.com/Sumit6258/frontend-universe.git
+cd frontend-universe
+open index.html         # macOS
+# or
+start index.html        # Windows
+# or
+xdg-open index.html     # Linux
+```
+
+### Option 2 — Local dev server (recommended)
+
+```bash
+# Python (built-in on macOS/Linux)
+python3 -m http.server 8080
+
+# Node.js
+npx serve .
+
+# PHP
+php -S localhost:8080
+```
+
+Then open [http://localhost:8080](http://localhost:8080)
+
+> **Why a server?** The Service Worker and iframe sandbox work correctly only over HTTP. Three.js CDN also requires a network connection on first load to cache the library.
+
+### Option 3 — VS Code Live Server
+
+Install [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer), right-click `index.html` → **Open with Live Server**. Hot-reload included.
+
+### Enabling the AI Assistant
+
+```
+1. Get a free API key → console.anthropic.com
+2. Open the site → click "Ask AI" (bottom-right)
+3. Click the ⚙ settings icon in the panel
+4. Paste your sk-ant-... key → click Save
+5. Full Claude AI responses are now active
+```
+>>>>>>> 892cc0f10feaf4423cbe87201c95508816f8282d
+
+---
+
 ## ☁️ Deploying to GitHub Pages
 
+<<<<<<< HEAD
 This site is designed for GitHub Pages with **zero configuration**.
+=======
+Zero configuration required.
+>>>>>>> 892cc0f10feaf4423cbe87201c95508816f8282d
 
 ### Step 1 — Initialize and push
 
@@ -376,6 +441,7 @@ git push -u origin main
 
 ### Step 2 — Enable GitHub Pages
 
+<<<<<<< HEAD
 1. Go to your repo on GitHub → **Settings** → **Pages**
 2. Under **Source**, select `Deploy from a branch`
 3. Set branch to `main`, folder to `/ (root)`
@@ -384,12 +450,33 @@ git push -u origin main
 ### Step 3 — Done 🎉
 
 Your site is live at:
+=======
+1. Go to your repo → **Settings** → **Pages**
+2. Under **Source** → `Deploy from a branch`
+3. Branch: `main` · Folder: `/ (root)` → **Save**
+
+### Step 3 — Done 🎉
+
+```
+https://sumit6258.github.io/frontend-universe
+```
+
+GitHub Actions redeploys automatically on every push to `main`.
+
+### Optional: Custom Domain
+
+Add a `CNAME` file to the root:
+>>>>>>> 892cc0f10feaf4423cbe87201c95508816f8282d
 
 ```
 https://sumit6258.github.io/Frontend-Universe/
 ```
 
+<<<<<<< HEAD
 GitHub automatically redeploys on every push to `main`.
+=======
+Then add a CNAME record in your DNS provider pointing to `sumit6258.github.io`.
+>>>>>>> 892cc0f10feaf4423cbe87201c95508816f8282d
 
 ---
 
@@ -570,6 +657,7 @@ Resources       .............  12
 Developer Ranks .............  6  (Apprentice → Architect)
 Achievements    .............  10 auto-detected badges
 XP Event Types  .............  7
+<<<<<<< HEAD
 Skill Tree Nodes ............  8  (React) + 6 (Next.js)
 
 ── V2.0.0 VISUALS ──────────────────────────────────────
@@ -579,6 +667,17 @@ Galaxy Stars    .............  3,000
 Nebula Particles ............  600
 Architecture Map Nodes ......  9 tools + 14 connections
 Canvas Elements .............  4 (particles, galaxy, arch map, skill tree)
+=======
+Skill Tree Nodes .............  8  (React) + 6 (Next.js)
+
+── V2.0.0 VISUALS ──────────────────────────────────────
+Three.js Planets .............  4 planets + 4 halos + 4 rings
+Orbit Concept Nodes ..........  24 (6 per planet)
+Galaxy Stars    .............  3,000
+Nebula Particles .............  600
+Architecture Map Nodes .......  9 tools + 14 connections
+Canvas Elements .............  4 (particles, galaxy, arch, skill tree)
+>>>>>>> 892cc0f10feaf4423cbe87201c95508816f8282d
 ```
 
 ---
@@ -739,6 +838,11 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
 <br/>
 
 *Made with ❤️ by [**Sumit**](https://www.linkedin.com/in/thesumitsuman/) — turning coffee and curiosity into clean, scalable frontends.*
+<<<<<<< HEAD
+=======
+
+<br/>
+>>>>>>> 892cc0f10feaf4423cbe87201c95508816f8282d
 
 <br/>
 
