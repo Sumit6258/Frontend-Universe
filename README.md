@@ -18,30 +18,34 @@
  ╚═════╝ ╚═╝  ╚═══╝╚═╝  ╚═══╝  ╚══════╝╚═╝  ╚═╝╚══════╝╚══════╝
 ```
 
-**The Netflix of Frontend Development Learning.**
+**The Apple Developer Docs × Awwwards Interactive Site — for Frontend Learners.**
 
-*One platform. Four frameworks. Five stages. Infinite possibilities.*
-
-<br/>
-
-[![GitHub Pages](https://img.shields.io/badge/Hosted_on-GitHub_Pages-222?style=for-the-badge&logo=github&logoColor=white)](https://your-username.github.io/frontend-universe)
-[![License](https://img.shields.io/badge/License-MIT-00d4ff?style=for-the-badge)](LICENSE)
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Offline Ready](https://img.shields.io/badge/Offline-Ready-4ade80?style=for-the-badge&logo=pwa&logoColor=white)](#)
-[![No Dependencies](https://img.shields.io/badge/Zero-Dependencies-a78bfa?style=for-the-badge)](#)
+*One platform. Four frameworks. A living galaxy of knowledge.*
 
 <br/>
 
-![Frontend Universe Hero](https://img.shields.io/badge/⚛_React-61DAFB?style=flat-square&logoColor=black)
+[![Version](https://img.shields.io/badge/version-2.0.0-00d4ff?style=for-the-badge&labelColor=04040a)](https://github.com/Sumit6258/frontend-universe)
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Visit_Site-00d4ff?style=for-the-badge)](https://sumit6258.github.io/Frontend-Universe/)
+[![License](https://img.shields.io/badge/License-MIT-a78bfa?style=for-the-badge)](LICENSE)
+[![Three.js](https://img.shields.io/badge/Three.js-WebGL-ff5c6c?style=for-the-badge&logo=threedotjs&logoColor=white)](#)
+[![AI Powered](https://img.shields.io/badge/AI-Assistant-ffc947?style=for-the-badge)](#)
+[![Offline Ready](https://img.shields.io/badge/Offline-Ready-4ade80?style=for-the-badge)](#)
+[![No Build Step](https://img.shields.io/badge/Zero-Build_Step-a78bfa?style=for-the-badge)](#)
+
+<br/>
+
+![React](https://img.shields.io/badge/⚛_React-61DAFB?style=flat-square&logoColor=black)
 ![Next.js](https://img.shields.io/badge/▲_Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/🟢_Vue.js-42B883?style=flat-square&logoColor=white)
 ![React Native](https://img.shields.io/badge/📱_React_Native-61DAFB?style=flat-square&logoColor=black)
 
 <br/>
 
-[**🚀 Live Demo**](https://your-username.github.io/frontend-universe) · [**📚 Documentation**](#-table-of-contents) · [**🐛 Report Bug**](https://github.com/your-username/frontend-universe/issues) · [**✨ Request Feature**](https://github.com/your-username/frontend-universe/issues)
+[**🚀 Live Demo**](https://sumit6258.github.io/Frontend-Universe/) · [**📚 Documentation**](#-table-of-contents) · [**🐛 Report Bug**](https://github.com/Sumit6258/frontend-universe/issues) · [**✨ Request Feature**](https://github.com/Sumit6258/frontend-universe/issues)
+
+<br/>
+
+> ✦ **What's new in v2.0.0** — Three.js Framework Galaxy · AI Coding Assistant · Gamification Engine · Custom Cursor · Architecture Map · Page Loader · Magnetic Buttons · Scroll Parallax · XP + Ranks + Achievements · Developer Dashboard · Skill Tree
 
 <br/>
 
@@ -52,25 +56,27 @@
 ## 📖 Table of Contents
 
 - [✨ Overview](#-overview)
+- [🆕 What's New in v2.0.0](#-whats-new-in-v200)
 - [🌟 Features](#-features)
 - [🎯 Learning Paths](#-learning-paths)
 - [🖥️ Platform Sections](#️-platform-sections)
 - [📁 File Structure](#-file-structure)
-- [🚀 Getting Started](#-getting-started)
 - [☁️ Deploying to GitHub Pages](#️-deploying-to-github-pages)
 - [🎨 Design System](#-design-system)
 - [🛠️ Technology Stack](#️-technology-stack)
 - [⌨️ Keyboard Shortcuts](#️-keyboard-shortcuts)
+- [📊 Platform Stats](#-platform-stats)
 - [🤝 Contributing](#-contributing)
+- [🗺️ Roadmap](#️-roadmap)
 - [📜 License](#-license)
 
 ---
 
 ## ✨ Overview
 
-**Frontend Universe** is a fully static, beautifully designed interactive learning platform that takes a complete beginner all the way to a production-level frontend architect — without needing any other resource.
+**Frontend Universe** is a fully static, cinematic interactive learning platform that takes developers from complete beginner to production-level frontend architect — no backend, no login, no subscription required.
 
-Built with zero dependencies, zero backend, and zero build steps. Open `index.html` and start learning immediately.
+Built with zero framework dependencies, zero build steps, and a $50,000-worthy UI. Open `index.html` in any browser and a universe of knowledge unfolds.
 
 ```
 Beginner ──→ Intermediate ──→ Advanced ──→ Expert ──→ Production Architect
@@ -79,46 +85,147 @@ Beginner ──→ Intermediate ──→ Advanced ──→ Expert ──→ Pr
 ```
 
 > **Why Frontend Universe?**
-> Most learning resources teach one framework in isolation. Frontend Universe teaches all four major frameworks side-by-side, with real interactive code, visual concept explanations, and a structured progression system — all running entirely in your browser.
+> Most learning resources teach one framework in isolation. Frontend Universe teaches all four major frameworks side-by-side — with live code execution, 3D visualizations, an AI assistant, gamified progression, and structured paths — all inside a handful of static files.
+
+---
+
+## 🆕 What's New in v2.0.0
+
+Version 2.0.0 is a complete visual and technical transformation. The core content is unchanged and expanded — the experience is entirely reinvented.
+
+### 🪐 Three.js Framework Galaxy
+
+The hero section now features a **fully interactive 3D WebGL universe** built with Three.js:
+
+- 4 framework planets (React, Vue, Next.js, React Native) with glow halos, atmosphere layers, and rotating rings
+- 6 concept nodes orbit each planet — Components, Hooks, State, Props, Context, Virtual DOM (React) and equivalents for each framework
+- 3,000-star starfield with cyan/violet color variation
+- Ambient nebula particle cloud (600 particles)
+- **Drag to rotate** — smooth momentum-based interaction
+- **Click any planet** to navigate to that framework's learning path
+- Hover tooltips show planet and concept names
+- Auto-rotates when idle with cinematic easing
+
+### 🤖 AI Coding Assistant
+
+A floating **AI panel** — GitHub Copilot meets your personal senior dev:
+
+- Powered by your own Anthropic API key (or falls back to built-in knowledge base)
+- **Full Claude integration** — multi-turn conversation with context memory
+- **Knowledge base fallback** — semantic keyword matching across React, Next.js, Vue, and performance topics
+- Markdown rendering with syntax-highlighted code blocks, inline code, bullets, and headings
+- 4 quick-access suggestion chips out of the box
+- API key stored only in `localStorage` — never sent anywhere except `api.anthropic.com`
+
+### 🎮 Gamification Engine
+
+Learning is now a game:
+
+| Event | XP Earned |
+|---|---|
+| Complete a lesson | +50 XP |
+| Open a project | +150 XP |
+| Solve a challenge | +200 XP |
+| Quiz correct answer | +75 XP |
+| Quiz perfect score | +500 XP |
+| First login bonus | +25 XP |
+| Achievement unlocked | +50–500 XP bonus |
+
+**6 Developer Ranks** — each with a unique icon and unlock color:
+
+```
+🌱 Markup Apprentice  →  ⚡ Junior Dev  →  ⚛ React Developer
+→  🔥 Mid Engineer  →  🚀 Senior Engineer  →  🏆 Frontend Architect
+```
+
+**10 Achievements** — auto-detected as you use the platform:
+
+| Achievement | Trigger |
+|---|---|
+| 💡 First Light | Complete your first lesson |
+| ⚛ React Apprentice | Complete 3 React lessons |
+| 🗺 Explorer | Visit every section |
+| 🎯 Quiz Master | Score 100% on the mock quiz |
+| 🦉 Night Owl | Use the playground after midnight |
+| 🏛 Architect | Reach Frontend Architect rank |
+| 🌐 Full Stack Mind | Explore all 4 framework paths |
+| ⚡ Speedrun | Complete 5 challenges |
+| 📚 Bookworm | Read 10 lessons |
+| 🛠 Builder | Open 5 projects |
+
+### 📊 Developer Dashboard
+
+A full **progress dashboard** auto-injected before the footer:
+
+- Current rank card with animated XP progress bar toward next rank
+- 4 live stat counters (Lessons Read, Projects Opened, Challenges Done, Sections Visited)
+- Full achievement grid with earned/locked visual states
+- **React Skill Tree** — canvas-drawn node graph, 8 nodes connected by bezier curves, unlocks as you complete lessons
+
+### ✦ Premium UI & Motion
+
+- **Custom dual-element cursor** — dot + lerped ring, scales on hover, collapses on click
+- **Magnetic buttons** — primary/ghost buttons physically shift toward the cursor
+- **Cinematic page loader** — animated progress bar + logo on first visit
+- **Hero parallax** — content drifts with scroll depth
+- **Scroll reveal** — every card, header, and section animates in with staggered delays
+- **Animated stat counters** — hero numbers count up from 0 on scroll (easeOutQuart)
+- **Noise texture overlay** — subtle film grain via canvas
+- **XP pop animation** — floating `+50 XP` bursts from the nav badge
+- **Rank-up toast** — spring-animated full panel on level-up
+- **Achievement toast** — slide-in notification card, top-right
+
+### 🗺️ Frontend Architecture Map
+
+A new interactive **ecosystem map** section:
+
+- 9 nodes: React, Next.js, Vue, Vite, Webpack, Tailwind, Redux, Jest, TypeScript
+- Animated dashed connection lines between related tools
+- Hover glow with node-specific accent color
+- Drawn entirely on a `<canvas>` — zero dependencies
 
 ---
 
 ## 🌟 Features
 
 ### 🎮 Interactive Code Playground
-Run live React, Vue, Next.js, and state management code directly in the browser — no setup required. Features include:
+
+Run live React, Vue, Next.js, and state management code directly in the browser — no setup required:
 
 - **5 pre-built templates** — React counter, Vue reactivity, Next.js architecture, Hooks deep-dive, Redux-style state management
 - **Live iframe sandbox** — Full React 18 + Babel execution environment
-- **Console output panel** — See `console.log`, errors, and warnings in real-time
-- **Tab key support** — Proper code indentation inside the editor
-- **`Ctrl/Cmd + Enter`** to run code instantly
+- **Console output panel** — Real-time `console.log`, errors, and warnings
+- **`Ctrl / Cmd + Enter`** to run code instantly
+- Tab key support for proper indentation
 
 ### 📚 Structured Lesson System
+
 - Syntax-highlighted code blocks with one-click copy
-- Visual diagrams embedded in every explanation
-- Sidebar navigation organized by stage and topic
+- Sidebar navigation organized by framework and stage
 - Progress tracking persisted in `localStorage`
 - Bookmark any lesson for later
+- Each lesson earns **+50 XP** toward your developer rank
 
 ### 👁️ Visual Concept Explainers
-Hard concepts visualized with interactive animated diagrams:
+
+Six hard frontend concepts visualized with interactive animated diagrams:
 
 | Concept | What You'll See |
 |---|---|
 | **Virtual DOM Diffing** | Side-by-side before/after tree comparison |
 | **Component Lifecycle** | Mount → Update → Unmount flow diagram |
 | **Vue Reactivity System** | Proxy → Dependency Tracking → Re-render pipeline |
-| **SSR & Hydration** | Three-step server-to-browser handoff visualization |
+| **SSR & Hydration** | Three-step server-to-browser handoff |
 | **State Flow & Lifting** | Unidirectional data flow diagram |
 | **Context API** | Provider/Consumer tree visualization |
 
 ### 🏆 Challenges System
-Test your skills with real engineering problems:
+
+Real engineering problems across four categories:
 
 | Type | Description |
 |---|---|
-| 🐛 **Bug Fix** | Identify and fix subtle React bugs (stale closures, race conditions) |
+| 🐛 **Bug Fix** | Identify and fix subtle React bugs — stale closures, race conditions |
 | ✏️ **Code Completion** | Finish partially-implemented hooks, components, and utilities |
 | ⚡ **Performance** | Optimize slow lists, reduce bundle size, fix memory leaks |
 | 🏗️ **Architecture** | Design scalable state layers and micro frontend systems |
@@ -126,19 +233,21 @@ Test your skills with real engineering problems:
 Each challenge includes starter code, difficulty rating (`Easy` → `Expert`), XP points, and one-click "Open in Playground."
 
 ### 🎤 Interview Preparation
+
 - **12 expert-level Q&As** across React, Next.js, Vue, and System Design
 - Accordion-style reveal — study at your own pace
 - **5-question mock quiz** with instant feedback, explanations, and scoring
-- System design questions with full architectural answers
+- Quiz completion awards XP and can unlock the **Quiz Master** achievement
 
 ### 🔍 Global Search (`Ctrl + K`)
-Search across every lesson, project, concept, and tool simultaneously. Results are categorized and clickable, jumping you directly to the relevant content.
+
+Instant search across every lesson, project, concept, and tool. Results categorized and clickable — jump directly to relevant content.
 
 ---
 
 ## 🎯 Learning Paths
 
-Four complete framework paths, each divided into 5 progressive stages:
+Four complete framework paths, each divided into 5 progressive stages. Every stage click earns XP and contributes to your skill tree.
 
 <details>
 <summary><strong>⚛️ React Path — 52 lessons · 40 hours</strong></summary>
@@ -198,17 +307,20 @@ Four complete framework paths, each divided into 5 progressive stages:
 
 | Section | Description |
 |---|---|
-| 🏠 **Hero** | Particle field, orbiting logos, typing animation, framework stats |
+| 🪐 **Hero + Galaxy** | Three.js WebGL galaxy — 4 planets, 24 orbit nodes, 3,000 stars, drag-to-rotate |
 | 🧩 **Frameworks** | Cards for all 4 frameworks with lesson counts, tags, and estimated hours |
 | 🗺️ **Learning Paths** | Visual 5-stage roadmap, tabbed by framework, expandable stage modals |
-| 📖 **Lessons** | Sidebar + rich content panel with code highlighting and progress tracking |
+| 📖 **Lessons** | Sidebar + rich content panel with syntax highlighting and progress tracking |
 | ▶️ **Playground** | Live multi-framework code sandbox with 5 templates |
 | 👁️ **Visual Concepts** | 6 animated interactive concept diagrams |
 | 🏗️ **Projects** | 14 real-world projects with filterable grid and architecture breakdowns |
 | 🎯 **Challenges** | 8 engineering challenges with starter code and XP points |
 | 🔧 **Dev Tools** | 12 tools across Bundlers, Testing, State Management, and Language |
-| 🎤 **Interview Prep** | 12 deep-dive Q&As + 5-question scored quiz |
-| 📚 **Resources** | 12 curated external references categorized by topic |
+| 🎤 **Interview Prep** | 12 deep-dive Q&As + 5-question scored mock quiz |
+| 📚 **Resources** | 12 curated external references, categorized by topic |
+| 🗺️ **Architecture Map** | Interactive canvas ecosystem graph — 9 tools, animated connections |
+| 📊 **Dashboard** | Developer rank, XP bar, achievement grid, React skill tree |
+| 🤖 **AI Assistant** | Floating panel — Claude API or knowledge base fallback |
 
 ---
 
@@ -217,128 +329,91 @@ Four complete framework paths, each divided into 5 progressive stages:
 ```
 frontend-universe/
 │
-├── 📄 index.html               # Single entry point — entire SPA
+├── 📄 index.html                  # Single entry point — entire SPA
 │
 ├── 📁 assets/
 │   ├── 📁 css/
-│   │   └── styles.css          # ~800 lines — full design system
+│   │   └── styles.css             # ~2,537 lines — full design system + v2.0 styles
 │   │
 │   └── 📁 js/
-│       ├── data.js             # All content: lessons, projects, quiz, paths
-│       └── app.js              # All interactivity: rendering, playground, search
+│       ├── data.js                # All content: lessons, projects, quiz, paths
+│       ├── app.js                 # All rendering: framework cards, playground, search
+│       ├── universe.js            # Three.js galaxy, cursor, parallax, arch map
+│       ├── ai-panel.js            # AI assistant panel + Claude API integration
+│       └── gamify.js              # XP engine, ranks, achievements, dashboard
 │
-└── 📄 sw.js                    # Service worker for offline caching
+└── 📄 sw.js                       # Service worker for offline caching
 ```
 
-> **Everything in 5 files.** No build step. No `node_modules`. No bundler. Just open and go.
+> **8 files. Zero npm packages. Open `index.html` and a universe opens.**
 
-### Key Design Decisions
+### Key Architecture Decisions
 
-- **`data.js`** is the single source of truth for all content — edit it to add lessons, projects, or quiz questions without touching any rendering logic.
-- **`app.js`** contains all rendering functions and event handlers as pure ES6+ — no framework, no virtual DOM, just fast DOM manipulation.
-- **`styles.css`** uses a CSS custom properties design system — swap the `:root` variables to completely re-theme the site.
-- **`sw.js`** caches all assets on first load so the entire platform works offline.
-
----
-
-## 🚀 Getting Started
-
-### Option 1: Just open it (zero setup)
-
-```bash
-git clone https://github.com/your-username/frontend-universe.git
-cd frontend-universe
-open index.html         # macOS
-# or
-start index.html        # Windows
-# or
-xdg-open index.html     # Linux
-```
-
-### Option 2: Local dev server (recommended for full functionality)
-
-```bash
-# Using Python (built into macOS/Linux)
-python3 -m http.server 8080
-
-# Using Node.js
-npx serve .
-
-# Using PHP
-php -S localhost:8080
-```
-
-Then open [http://localhost:8080](http://localhost:8080)
-
-> **Why a server?** The service worker and iframe sandbox work correctly only over HTTP. The site works fine without one, but the offline caching feature requires it.
+- **`data.js`** — Single source of truth for all content. Add a lesson, project, or quiz question without touching any rendering logic.
+- **`app.js`** — All rendering functions and event handlers as pure ES6+. No virtual DOM, no framework, just fast `innerHTML`.
+- **`universe.js`** — Self-contained visual engine. Three.js galaxy, custom cursor, magnetic buttons, parallax, architecture map. Fully removable without breaking the rest of the site.
+- **`ai-panel.js`** — Fully encapsulated AI module. Works with or without an API key. Key stored only in `localStorage`.
+- **`gamify.js`** — Hooks into existing app functions at runtime. Zero coupling — remove this file and everything else still works perfectly.
+- **`styles.css`** — CSS custom properties design system. Swap `:root` variables to completely re-theme the entire site.
+- **`sw.js`** — Caches all 8 files on first load. Full offline support with cache-first strategy.
 
 ---
 
 ## ☁️ Deploying to GitHub Pages
 
-This site is designed to be deployed on GitHub Pages with **zero configuration**.
+This site is designed for GitHub Pages with **zero configuration**.
 
-### Step 1 — Create a repository
+### Step 1 — Initialize and push
 
 ```bash
 git init
 git add .
-git commit -m "feat: initial Frontend Universe deployment"
+git commit -m "feat: Frontend Universe v2.0.0"
 git branch -M main
-git remote add origin https://github.com/YOUR_USERNAME/frontend-universe.git
+git remote add origin https://github.com/Sumit6258/frontend-universe.git
 git push -u origin main
 ```
 
 ### Step 2 — Enable GitHub Pages
 
-1. Go to your repository on GitHub
-2. Click **Settings** → **Pages**
-3. Under **Source**, select `Deploy from a branch`
-4. Set branch to `main`, folder to `/ (root)`
-5. Click **Save**
+1. Go to your repo on GitHub → **Settings** → **Pages**
+2. Under **Source**, select `Deploy from a branch`
+3. Set branch to `main`, folder to `/ (root)`
+4. Click **Save**
 
 ### Step 3 — Done 🎉
 
-Your site will be live at:
-```
-https://YOUR_USERNAME.github.io/frontend-universe
-```
-
-GitHub Actions will automatically redeploy on every push to `main`.
-
-### Optional: Custom domain
-
-Add a `CNAME` file to the root with your domain:
+Your site is live at:
 
 ```
-frontend.yourdomain.com
+https://sumit6258.github.io/Frontend-Universe/
 ```
 
-Then configure your DNS provider with a CNAME record pointing to `your-username.github.io`.
+GitHub automatically redeploys on every push to `main`.
 
 ---
 
 ## 🎨 Design System
 
-Frontend Universe uses a custom CSS variable design system. Every visual decision flows from a single set of root variables — making re-theming trivial.
+Frontend Universe v2.0.0 uses a refined CSS custom properties system. Every visual decision flows from a single `:root` block.
 
 ### Color Palette
 
 ```css
 :root {
   /* Backgrounds */
-  --bg-0: #04040a;          /* Deepest background */
-  --bg-1: #080812;          /* Page background */
-  --bg-2: #0d0d1f;          /* Card background */
+  --bg-0: #04040a;          /* Deepest — space black          */
+  --bg-1: #080812;          /* Page background                */
+  --bg-2: #0d0d1f;          /* Elevated surfaces              */
 
-  /* Accent Colors */
-  --accent-cyan:   #00d4ff; /* Primary CTA, React color */
-  --accent-coral:  #ff5c6c; /* Interview, errors */
-  --accent-amber:  #ffc947; /* Challenges, warnings */
-  --accent-violet: #a78bfa; /* State management, resources */
-  --accent-green:  #4ade80; /* Beginner stage, success */
+  /* Accents */
+  --accent-cyan:   #00d4ff; /* Primary CTA · React · links    */
+  --accent-coral:  #ff5c6c; /* Interview · errors · ❤️        */
+  --accent-amber:  #ffc947; /* Challenges · XP · warnings     */
+  --accent-violet: #a78bfa; /* AI panel · resources · state   */
+  --accent-green:  #4ade80; /* Beginner · success · online    */
 
-  /* Framework Colors */
+  /* Frameworks */
   --react-color: #61dafb;
   --vue-color:   #42b883;
   --next-color:  #ffffff;
@@ -347,63 +422,108 @@ Frontend Universe uses a custom CSS variable design system. Every visual decisio
 
 ### Typography
 
-| Role | Font | Weight |
-|---|---|---|
-| Display / Headings | [Syne](https://fonts.google.com/specimen/Syne) | 700, 800 |
-| Body / UI | [Outfit](https://fonts.google.com/specimen/Outfit) | 300, 400, 500, 600 |
-| Code / Mono | [JetBrains Mono](https://fonts.google.com/specimen/JetBrains+Mono) | 300, 400, 500 |
+| Role | Font | Weight | Notes |
+|---|---|---|---|
+| Display / Headings | [Bricolage Grotesque](https://fonts.google.com/specimen/Bricolage+Grotesque) | 400–800 | Variable · optical sizing · `letter-spacing: -1.2px to -2.5px` |
+| Body / UI | [DM Sans](https://fonts.google.com/specimen/DM+Sans) | 300, 400, 500, 600 | Optical sizing · `line-height: 1.65–1.8` |
+| Code / Mono | [JetBrains Mono](https://fonts.google.com/specimen/JetBrains+Mono) | 300, 400, 500 | Ligatures disabled in editors |
+
+**Typography tuning applied in v2.0.0:**
+- `font-optical-sizing: auto` on all display and body text
+- `text-wrap: balance` on hero and section headings — no widow words
+- `font-feature-settings: 'kern' 1, 'liga' 1, 'calt' 1` on body text
+- `letter-spacing: 1.8px` on all uppercase labels (`.section-tag`)
 
 ### Component Classes
 
 ```css
-.glass-card        /* Glassmorphism card with backdrop-filter */
-.btn-primary       /* Cyan gradient CTA button */
-.btn-ghost         /* Transparent outlined button */
-.section-tag       /* Uppercase pill label for sections */
-.reveal            /* Intersection Observer scroll animation */
-.diff-easy/medium/hard/expert   /* Difficulty badge variants */
-.stage-badge.beginner/...       /* Stage level badges */
+/* Layout */
+.glass-card         /* Glassmorphism — backdrop-filter + border */
+.container          /* Max-width 1280px centered */
+.section            /* 100px vertical padding */
+.section-alt        /* Subtle alternating background */
+
+/* Buttons */
+.btn-primary        /* Cyan gradient — magnetic hover */
+.btn-ghost          /* Outlined — magnetic hover */
+.btn-xl             /* Hero CTA variant */
+.btn-sm             /* Compact variant */
+
+/* Labels */
+.section-tag        /* Uppercase pill, letter-spacing: 1.8px */
+.stage-badge        /* .beginner .intermediate .advanced .expert .architect */
+.diff-easy/medium/hard/expert   /* Challenge difficulty */
+.xp-badge           /* Nav XP counter with rank color */
+
+/* Animation */
+.sr-hidden          /* Scroll reveal — invisible start state */
+.sr-visible         /* Scroll reveal — visible end state */
 ```
 
-### Creating a Light Theme Override
+### Light Theme Override
 
 ```css
 [data-theme="light"] {
   --bg-0: #f0f2ff;
   --bg-1: #f7f8ff;
   --bg-2: #ffffff;
+  --bg-card: rgba(255,255,255,0.8);
   --text-primary: #0a0a1a;
   --text-secondary: rgba(30, 40, 100, 0.65);
+  --shadow-card: 0 4px 30px rgba(0,0,60,0.08);
 }
+```
+
+Toggle via the ☀️ button in the nav, or programmatically:
+
+```javascript
+document.documentElement.setAttribute('data-theme', 'light');
 ```
 
 ---
 
 ## 🛠️ Technology Stack
 
+### Core — zero npm dependencies
+
 | Technology | Usage | Why |
 |---|---|---|
-| **HTML5** | Structure, Semantic markup | No framework needed for static content |
-| **CSS3** | Custom properties, Grid, Flexbox, Animations | Zero-runtime, maximum performance |
-| **Vanilla JS (ES6+)** | All interactivity, routing, state | No bundle = instant load |
-| **CSS `backdrop-filter`** | Glassmorphism effects | Native hardware acceleration |
-| **Canvas API** | Particle background animation | No Three.js needed for this effect |
-| **Intersection Observer** | Scroll-triggered reveal animations | Performant, no scroll listeners |
-| **iframe sandbox** | Safe code execution playground | Browser-native, no eval risks |
-| **Service Worker** | Offline caching strategy | PWA-level reliability |
-| **localStorage** | Progress + theme persistence | No backend needed |
-| **CSS `@keyframes`** | Orbit, typing, and UI animations | 60fps GPU-accelerated |
+| **HTML5** | Semantic structure, SPA shell | No framework overhead |
+| **CSS3** | Custom properties, Grid, Flexbox, Animations | Zero-runtime, GPU-accelerated |
+| **Vanilla JS (ES6+)** | All rendering, routing, state | No bundle = instant load |
+| **Canvas 2D API** | Particles, arch map, skill tree | Hardware-accelerated |
+| **Intersection Observer** | Scroll reveal | No scroll event listeners |
+| **iframe sandbox** | Safe code execution | Browser-native, no `eval` |
+| **Service Worker** | Offline caching | Cache-first PWA strategy |
+| **localStorage** | Progress, XP, achievements, theme | No backend required |
 
-### External Resources (CDN, loaded in playground only)
+### New in v2.0.0
+
+| Technology | Usage |
+|---|---|
+| **Three.js r128** | WebGL galaxy — planets, particles, starfield |
+| **Raycaster API** | 3D click and hover detection |
+| **Web Animations** | XP pop, rank-up toast, achievement slide |
+| **Anthropic Claude API** | AI assistant — `claude-haiku-4-5` model |
+| **CSS `mix-blend-mode`** | Film grain noise overlay |
+| **CSS `font-optical-sizing`** | Variable font calibration |
+
+### External CDN
 
 ```
-React 18         — unpkg.com/react@18/umd/react.development.js
-ReactDOM 18      — unpkg.com/react-dom@18/umd/react-dom.development.js
-Babel Standalone — unpkg.com/@babel/standalone/babel.min.js
-Google Fonts     — Syne, Outfit, JetBrains Mono
+# Loaded in <head> — main site
+https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js
+
+# Google Fonts — loaded in <head>
+Bricolage Grotesque  ·  DM Sans  ·  JetBrains Mono
+
+# Injected in playground iframe only, on Run click
+https://unpkg.com/react@18/umd/react.development.js
+https://unpkg.com/react-dom@18/umd/react-dom.development.js
+https://unpkg.com/@babel/standalone/babel.min.js
 ```
 
-The main site itself loads **zero external JavaScript**. External resources are only injected inside the sandboxed playground iframe when you click Run.
+> The main site loads **one** external script (Three.js). React and Babel are loaded only inside the sandboxed iframe when you click Run.
 
 ---
 
@@ -413,7 +533,7 @@ The main site itself loads **zero external JavaScript**. External resources are 
 |---|---|
 | `Ctrl / Cmd + K` | Open global search |
 | `Ctrl / Cmd + Enter` | Run code in playground |
-| `Escape` | Close any modal, overlay, or mobile menu |
+| `Escape` | Close any modal, overlay, or AI panel |
 | `Tab` | Insert 2-space indent in code editor |
 
 ---
@@ -421,37 +541,56 @@ The main site itself loads **zero external JavaScript**. External resources are 
 ## 📊 Platform Stats
 
 ```
-Lines of HTML  ............  ~500
-Lines of CSS   ............  ~820
-Lines of JS    ............  ~630
-Lines of Data  ............  ~650
-─────────────────────────────────
-Total          ............  ~2,600 lines
-Frameworks     ............  4
-Stages         ............  5 × 4 = 20 total paths
-Lessons        ............  170+ across all frameworks
-Projects       ............  14 walkthroughs
-Challenges     ............  8 (Easy → Expert)
-Interview Q&As ............  12 deep-dive answers
-Quiz Questions ............  5 (expandable)
-Dev Tools      ............  12
-Resources      ............  12
-File Size      ............  ~170 KB total (no images required)
-Dependencies   ............  0
-Build Steps    ............  0
+── SOURCE CODE ─────────────────────────────────────────
+Lines of HTML   .............  ~430
+Lines of CSS    .............  ~2,537
+Lines of JS     .............  ~630   (app.js)
+Lines of Data   .............  ~650   (data.js)
+Lines of Engine .............  ~660   (universe.js)
+Lines of AI     .............  ~352   (ai-panel.js)
+Lines of Gamify .............  ~549   (gamify.js)
+───────────────────────────────────────────────────────
+Total           .............  ~5,808 lines
+File Size       .............  ~294 KB (8 files)
+npm Packages    .............  0
+Build Steps     .............  0
+
+── CONTENT ─────────────────────────────────────────────
+Frameworks      .............  4
+Stages          .............  5 × 4 = 20 total paths
+Lessons         .............  170+ across all frameworks
+Projects        .............  14 real-world walkthroughs
+Challenges      .............  8  (Easy → Expert)
+Interview Q&As  .............  12 deep-dive answers
+Quiz Questions  .............  5  (expandable)
+Dev Tools       .............  12
+Resources       .............  12
+
+── GAMIFICATION ────────────────────────────────────────
+Developer Ranks .............  6  (Apprentice → Architect)
+Achievements    .............  10 auto-detected badges
+XP Event Types  .............  7
+Skill Tree Nodes ............  8  (React) + 6 (Next.js)
+
+── V2.0.0 VISUALS ──────────────────────────────────────
+Three.js Planets ............  4 planets + 4 halos + 4 rings
+Orbit Concept Nodes .........  24 (6 per planet)
+Galaxy Stars    .............  3,000
+Nebula Particles ............  600
+Architecture Map Nodes ......  9 tools + 14 connections
+Canvas Elements .............  4 (particles, galaxy, arch map, skill tree)
 ```
 
 ---
 
 ## 🤝 Contributing
 
-Contributions are warmly welcome! Here's how to get involved:
+Contributions are warmly welcome. Here's how to extend the platform:
 
 ### Adding a Lesson
 
-Open `assets/js/data.js` and add to the `lessons` object:
-
 ```javascript
+// assets/js/data.js
 FU_DATA.lessons.react.push({
   id: 'your-lesson-id',
   group: 'Stage 2 — Core Development',
@@ -477,11 +616,11 @@ function Example() {
 ```javascript
 FU_DATA.projects.push({
   id: 'my-project',
-  fw: 'react',          // react | nextjs | vue | rn
+  fw: 'react',            // react | nextjs | vue | rn
   title: 'My Project',
   difficulty: 'Advanced', // Beginner | Intermediate | Advanced | Expert
-  desc: 'What this project builds...',
-  tech: ['useState', 'Custom Hooks', 'Tailwind'],
+  desc: 'What this project builds and what it teaches...',
+  tech: ['useState', 'Custom Hooks', 'TanStack Query'],
   emoji: '🚀'
 });
 ```
@@ -492,38 +631,66 @@ FU_DATA.projects.push({
 FU_DATA.quiz.push({
   q: 'Your question text?',
   options: ['Option A', 'Option B', 'Option C', 'Option D'],
-  correct: 1,  // zero-indexed
-  explanation: 'Why this is correct...'
+  correct: 1,   // zero-indexed
+  explanation: 'Why this answer is correct...'
+});
+```
+
+### Adding an AI Knowledge Base Entry
+
+```javascript
+// assets/js/ai-panel.js  →  KB object
+KB.react.answers.push({
+  q: 'keyword-to-match',
+  a: 'Your **markdown-formatted** answer with `inline code` support.'
 });
 ```
 
 ### Pull Request Process
 
-1. Fork the repository
-2. Create a feature branch: `git checkout -b feat/add-vue-composables-lesson`
-3. Make your changes
-4. Commit with a descriptive message: `git commit -m "feat: add Vue composables lesson to Stage 2"`
-5. Push and open a PR
+```bash
+# 1. Fork and clone
+git clone https://github.com/Sumit6258/frontend-universe.git
 
-**Good first issues:**
+# 2. Create a feature branch
+git checkout -b feat/add-vue-composables-lesson
+
+# 3. Make your changes — test locally with a dev server
+
+# 4. Commit with conventional commits
+git commit -m "feat: add Vue composables lesson to Stage 2"
+
+# 5. Push and open a PR
+git push origin feat/add-vue-composables-lesson
+```
+
+**Good first contributions:**
 - Add more lessons to any framework path
-- Add more interview questions
+- Expand the AI knowledge base with more Q&A entries
 - Add more playground templates
-- Improve mobile responsiveness
-- Add more interactive concept visualizations
+- Add more interview questions or quiz entries
+- Add Vue and Next.js skill tree nodes in `gamify.js`
+- Improve mobile experience for the galaxy section
 
 ---
 
 ## 🗺️ Roadmap
 
-- [ ] **Monaco Editor integration** — Full IDE experience in the playground
-- [ ] **Lesson search filtering** — Filter sidebar by stage and framework
-- [ ] **Progress dashboard** — Visual completion tracker per framework
+- [x] ~~**Three.js Galaxy** — 3D interactive framework universe~~ ✅ v2.0.0
+- [x] ~~**AI Coding Assistant** — Claude-powered floating panel~~ ✅ v2.0.0
+- [x] ~~**Gamification Engine** — XP, ranks, achievements~~ ✅ v2.0.0
+- [x] ~~**Developer Dashboard** — Progress, skill tree, stats~~ ✅ v2.0.0
+- [x] ~~**Architecture Map** — Interactive ecosystem graph~~ ✅ v2.0.0
+- [x] ~~**Custom Cursor + Magnetic Buttons**~~ ✅ v2.0.0
+- [x] ~~**Bricolage Grotesque + DM Sans** — Premium typography~~ ✅ v2.0.0
+- [ ] **Monaco Editor** — Full IDE experience in the playground
+- [ ] **GLSL Code Nebula Shader** — Full code-stream animated background
 - [ ] **TypeScript examples** — TS variants for all code snippets
-- [ ] **Video lesson embeds** — Optional YouTube walkthrough links per lesson
+- [ ] **Dark/Light auto mode** — Respect `prefers-color-scheme`
+- [ ] **Vue & Next.js Skill Trees** — Extend the gamified skill graph
 - [ ] **Community challenges** — GitHub-powered challenge submissions
 - [ ] **Printable cheat sheets** — One-page PDF summaries per framework
-- [ ] **Dark/Light auto mode** — Respect `prefers-color-scheme`
+- [ ] **Video lesson embeds** — Optional YouTube walkthrough links per lesson
 
 ---
 
@@ -532,7 +699,7 @@ FU_DATA.quiz.push({
 ```
 MIT License
 
-Copyright (c) 2025 Frontend Universe Contributors
+Copyright (c) 2025 Sumit — Frontend Universe
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -553,13 +720,15 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
 
 <br/>
 
-**Built for frontend developers, by frontend developers.**
+**Built for frontend developers, by a frontend developer.**
 
-If this platform helped you land a job, ace an interview, or level up your skills — ⭐ star the repo. It means the world.
+*If this platform helped you learn, land a job, or level up your skills — a ⭐ means the world.*
 
 <br/>
 
-[![Star on GitHub](https://img.shields.io/github/stars/sumit6258/frontend-universe?style=for-the-badge&logo=github&color=ffc947&logoColor=black)](https://github.com/your-username/frontend-universe)
+[![Star on GitHub](https://img.shields.io/github/stars/Sumit6258/frontend-universe?style=for-the-badge&logo=github&color=ffc947&logoColor=black)](https://github.com/Sumit6258/frontend-universe)
+[![Follow on GitHub](https://img.shields.io/badge/Follow-Sumit6258-222?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sumit6258)
+[![Connect on LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thesumitsuman/)
 
 <br/>
 
@@ -567,8 +736,10 @@ If this platform helped you land a job, ace an interview, or level up your skill
 ⚛ React  ·  ▲ Next.js  ·  🟢 Vue.js  ·  📱 React Native
 ```
 
-*Made with ♥ — HTML, CSS & Vanilla JS — Zero Dependencies*
+<br/>
 
-*Made with ♥ by **Sumit** — turning coffee and curiosity into clean, scalable frontends.*
+*Made with ❤️ by [**Sumit**](https://www.linkedin.com/in/thesumitsuman/) — turning coffee and curiosity into clean, scalable frontends.*
+
+<br/>
 
 </div>
